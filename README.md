@@ -17,10 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img id="langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=62oz&theme=dark"/>
-
-<style>
-#langs {
-  text-align: left;
-}
-</style>
+<img id="langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=62oz&theme=dark" style="float: right; margin-right: 10px;"/>
